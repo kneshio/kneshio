@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Alex! 
+
+I am a third-year undergrad student attending Purdue University who enjoys machine learning and AI development. 
+
+Below are some of my notable projects that I have worked on:
 
 <!--
 **kneshio/kneshio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
