@@ -5,6 +5,7 @@ I am a third-year undergrad student attending Purdue University who enjoys machi
 Below are some of my notable projects that I have worked on:
 
 https://github.com/kneshio/summer2024/tree/main/alex
+
 https://sagecontinuum.org/science/recent/super-resolution
 
 <!--
