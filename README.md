@@ -4,6 +4,8 @@ I am a third-year undergrad student attending Purdue University who enjoys machi
 
 Below are some of my notable projects that I have worked on:
 
+https://github.com/kneshio/summer2024/tree/main/alex
+
 <!--
 **kneshio/kneshio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
