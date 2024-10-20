@@ -8,6 +8,8 @@ https://github.com/kneshio/summer2024/tree/main/alex
 
 https://sagecontinuum.org/science/recent/super-resolution
 
+These following are most recent projects: 
+
 <!--
 **kneshio/kneshio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
