@@ -4,16 +4,19 @@ I am a third-year undergrad student attending Purdue University who enjoys machi
 
 Below are some of my notable projects that I have worked on:
 
+Automatic Breast Cancer Classification: https://github.com/kneshio/Breast-Cancer
+Signal Processing of Retinal Fundus Images and Automatic Diabetic Retinopathy Classification: 
+
 https://github.com/kneshio/summer2024/tree/main/alex
+Super-Resolution: https://sagecontinuum.org/science/recent/super-resolution
 
-https://sagecontinuum.org/science/recent/super-resolution
-
-These following are most recent projects: 
 
 <!--
 **kneshio/kneshio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
