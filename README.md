@@ -6,7 +6,7 @@ Below are some of my notable projects that I have worked on:
 
 Automatic Breast Cancer Classification: https://github.com/kneshio/Breast-Cancer
 
-Signal Processing of Retinal Fundus Images and Automatic Diabetic Retinopathy Classification: 
+Signal Processing of Retinal Fundus Images and Automatic Diabetic Retinopathy Classification: https://github.com/kneshio/Diabetic-Retinopathy
 
 https://github.com/kneshio/summer2024/tree/main/alex
 
