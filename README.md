@@ -4,9 +4,11 @@ I am a third-year undergrad student attending Purdue University who enjoys machi
 
 Below are some of my notable projects that I have worked on:
 
-Automatic Breast Cancer Classification: https://github.com/kneshio/Breast-Cancer
+Breast Cancer Classification: https://github.com/kneshio/Breast-Cancer
 
-Signal Processing of Retinal Fundus Images and Automatic Diabetic Retinopathy Classification: https://github.com/kneshio/Diabetic-Retinopathy
+Diabetic Retinopathy Classification: https://github.com/kneshio/Diabetic-Retinopathy
+
+Brain MRI Image Classification: https://github.com/kneshio/Brain-MRI
 
 https://github.com/kneshio/summer2024/tree/main/alex
 
