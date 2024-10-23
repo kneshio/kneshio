@@ -4,15 +4,15 @@ I am a third-year undergrad student attending Purdue University who enjoys machi
 
 Below are some of my notable projects that I have worked on:
 
+2024 Internship in ANL: https://github.com/kneshio/summer2024/tree/main/alex
+
+My Contribution in Super Resolution Exploration: https://sagecontinuum.org/science/recent/super-resolution
+
 Breast Cancer Classification: https://github.com/kneshio/Breast-Cancer
 
 Diabetic Retinopathy Classification: https://github.com/kneshio/Diabetic-Retinopathy
 
 Brain MRI Image Classification: https://github.com/kneshio/Brain-MRI
-
-2024 Internship in ANL: https://github.com/kneshio/summer2024/tree/main/alex
-
-My Contribution in Super Resolution Exploration: https://sagecontinuum.org/science/recent/super-resolution
 
 
 <!--
