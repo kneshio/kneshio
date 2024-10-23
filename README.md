@@ -10,7 +10,7 @@ Diabetic Retinopathy Classification: https://github.com/kneshio/Diabetic-Retinop
 
 Brain MRI Image Classification: https://github.com/kneshio/Brain-MRI
 
-https://github.com/kneshio/summer2024/tree/main/alex
+2024 Internship in ANL: https://github.com/kneshio/summer2024/tree/main/alex
 
 Super-Resolution: https://sagecontinuum.org/science/recent/super-resolution
 
