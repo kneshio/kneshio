@@ -12,7 +12,7 @@ Brain MRI Image Classification: https://github.com/kneshio/Brain-MRI
 
 2024 Internship in ANL: https://github.com/kneshio/summer2024/tree/main/alex
 
-Super-Resolution: https://sagecontinuum.org/science/recent/super-resolution
+My Contribution in Super Resolution Exploration: https://sagecontinuum.org/science/recent/super-resolution
 
 
 <!--
