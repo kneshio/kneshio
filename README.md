@@ -8,11 +8,11 @@ Below are some of my notable projects that I have worked on:
 
 - [**My Contribution in Super Resolution Exploration**](https://sagecontinuum.org/science/recent/super-resolution)
 
-- Breast Cancer Classification: https://github.com/kneshio/Breast-Cancer
+- [**Breast Cancer Classification**](https://github.com/kneshio/Breast-Cancer)
 
-- Diabetic Retinopathy Classification: https://github.com/kneshio/Diabetic-Retinopathy
+- [**Diabetic Retinopathy Classification**](https://github.com/kneshio/Diabetic-Retinopathy)
 
-- Brain MRI Image Classification: https://github.com/kneshio/Brain-MRI
+- [**Brain MRI Image Classification**](https://github.com/kneshio/Brain-MRI) 
 
 
 <!--
