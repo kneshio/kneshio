@@ -5,8 +5,7 @@ I am an upcoming Masters student at UC San Diego attending their Data Science Pr
 Below are some of my notable projects that I have worked on:
 
 - [**2024 Internship in ANL**](https://github.com/kneshio/summer2024/tree/main/alex)
-
-- [**My Contribution in Super Resolution Exploration**](https://sagecontinuum.org/science/recent/super-resolution)
+  - [**My Contribution in Super Resolution Exploration**](https://sagecontinuum.org/science/recent/super-resolution)
 
 - [**Breast Cancer Classification**](https://github.com/kneshio/Breast-Cancer)
 
