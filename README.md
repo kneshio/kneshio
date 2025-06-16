@@ -1,6 +1,6 @@
 ## Hi, I'm Alex! 
 
-I am a third-year undergrad student attending Purdue University who enjoys machine learning and AI development. 
+I am an upcoming Masters student at UC San Diego attending their Data Science Program. I received my Bachelors of Science for Data Science at Purdue University. My interests lie in Generative AI and image processing.
 
 Below are some of my notable projects that I have worked on:
 
