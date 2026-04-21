@@ -1,8 +1,8 @@
 ## Hi, I'm Alex! 
 
-I am an upcoming Masters student at UC San Diego attending their Data Science Program. I received my Bachelors of Science for Data Science at Purdue University. My interests lie in Generative AI, most notably LLMs, and Image Classification.
+I am a first year Masters student at UC San Diego, attending their Data Science Program. I received my Bachelor of Science in Data Science at Purdue University. My interests lie in Generative AI, most notably LLMs, and Image Classification.
 
-Below are some of my notable projects that I have worked on:
+Below are some of the notable projects that I have worked on:
 
 - [**2024 Internship in ANL**](https://github.com/kneshio/summer2024/tree/main/alex)
   - [**My Contribution in Super Resolution Exploration**](https://sagecontinuum.org/science/recent/super-resolution)
