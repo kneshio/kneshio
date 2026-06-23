@@ -1,6 +1,6 @@
 ## Hi, I'm Alex! 
 
-I am a first year Masters student at UC San Diego, attending their Data Science Program. I received my Bachelor of Science in Data Science at Purdue University. My interests lie in Generative AI, most notably LLMs, and Image Classification.
+I am an upcoming second year Masters student at UC San Diego, attending their Data Science Program. I received my Bachelor of Science in Data Science at Purdue University. My interests lie in Generative AI, most notably LLMs, and Image Classification.
 
 Below are some of the notable projects that I have worked on:
 
